@@ -4,8 +4,8 @@
 
 ## Philosophy
 
-Beware of false knowledge; it is more dangerous than ignorance.  
-**George Bernard Shaw**
+> Beware of false knowledge; it is more dangerous than ignorance.  
+> **George Bernard Shaw**
 
 Philosophy is about how we think.  It is concerned with the questions of life.
 What do we know?  How do we know that?  Why are things the way they are?
