@@ -4,7 +4,8 @@
 
 ## Systems
 
-* [Understanding Order](/systems)
+> Great designs come from great designers, not from great design processes.  
+**Frederick P. Brooks, Jr.**
 
 Systems are about order. Some systems are natural, others are designed by humans.
 

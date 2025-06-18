@@ -4,7 +4,8 @@
 
 ## Strategy
 
-* [The Art of Victory](/strategy)
+> I skate to where the puck is going to be, not where it has been.  
+**Wayne Gretzky**
 
 Strategy is about how we act.  It is about how we decide on and achieve our aims.
 
