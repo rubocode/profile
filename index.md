@@ -1,5 +1,4 @@
 > [home](/)
-> &bull; [blog](/blog)
 > &bull; [contact](contact)
 
 ![banner](photos/banner.png)
