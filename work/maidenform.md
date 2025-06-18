@@ -1,4 +1,5 @@
 > [work](./)
+> &bull; [co-op](/profile/education/stevens/co-op)
 
 ![maidenform](photos/jacksonville.png)
 
