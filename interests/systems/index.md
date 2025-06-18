@@ -4,8 +4,9 @@
 
 ## Systems
 
-> Great designs come from great designers, not from great design processes.  
-**Frederick P. Brooks, Jr.**
+> No theory, no plan, no system of government can assure the success of an enterprise.  
+> Only people can do that.  
+**Akio Morita**
 
 Systems are about order. Some systems are natural, others are designed by humans.
 
