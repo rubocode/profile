@@ -22,7 +22,7 @@ They master a set of disciplines with their particular uniqueness in talents.
 In classical education this was expected of each wise man.
 Our modern times tend to focus on too narrow a scope for specialization.
 
-[Intelligence](inteligence) is also a worthwhile interest to pursue, especially in this age.
+[Intelligence](intelligence) is also a worthwhile interest to pursue, especially in this age.
 
 Polymathy is not for everyone.
 
