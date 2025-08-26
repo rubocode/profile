@@ -10,7 +10,7 @@
 
 | [Education](education) | [Work](work) | [Interests](interests) |
 
-I am a Software Consultant residing in Sri Lanka.
+I am a Strategy Consultant residing in Sri Lanka.
 I graduated from Stevens Institute of Technology in Hoboken, New Jersey, USA
 as a Computer Engineer with a minor in Philosophy in 1996.  
 
