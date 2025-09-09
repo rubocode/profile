@@ -16,5 +16,5 @@ I graduated majoring in Computer Engineering with a minor in Philosophy in 1996.
 * [Engineering Information, Inc.](/profile/work/ei)
 * [Film Festival](film)
 * [Professor Stephen Bloom](bloom)
-* [Professor Susan ScHept](schept)
+* [Professor Susan Schept](schept)
 * [Professor Jim Scow](scow)
