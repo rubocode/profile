@@ -1,4 +1,4 @@
-> [royal](/profile/education/royal)
+> [royal](./)
 
 ![rcu](/profile/education/photos/it-day.png)
 

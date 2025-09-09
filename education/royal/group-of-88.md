@@ -1,4 +1,4 @@
-> [royal](/profile/education/royal)
+> [royal](./)
 
 ![group-of-88](/profile/education/photos/hilton.png)
 
