@@ -1,4 +1,4 @@
-> [stevens](/profile/education/stevens)
+> [stevens](./)
 
 ![bloom](/profile/education/photos/bloom.png)
 

@@ -1,8 +1,6 @@
-> [stevens](/profile/education/stevens)
+> [stevens](./)
 
-![minor](/profile/education/photos/mpk.png)
-
-> The Morton-Peirce-Kidde Complex which housed the Humanities Department.
+![photo](/profile/education/photos/minor.png)
 
 ## Philosophy Minor
 
