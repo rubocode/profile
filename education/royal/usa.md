@@ -1,8 +1,8 @@
 > [royal](./)
 
-![university](/profile/education/photos/royal-ifs.png)
+![photo](/profile/education/photos/royal-ifs.png)
 
-## University Entrance
+## USA
 
 Studying at [Royal College](/profile/education/royal),
 I obtained 3 As and a C in the Mathematics stream at the G.C.E. (A/L) examination in 1988.

@@ -11,6 +11,7 @@
 * [Summary Report](summary)
 * [Ordinary Level](ordinary)
 * [Advanced Level](advanced)
-* [University Admission](university)
+* [University of Moratuwa](moratuwa)
+* [USA](usa)
 * [Group of '88](group-of-88)
 * [Royal College Union](rcu)
