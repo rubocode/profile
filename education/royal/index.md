@@ -9,6 +9,6 @@
 
 * [Character Certificate](character)
 * [Summary Report](summary)
-* [University Entrance](university)
+* [University Admission](university)
 * [Group of '88](group-of-88)
 * [Royal College Union](rcu)
