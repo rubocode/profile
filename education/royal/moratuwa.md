@@ -1,5 +1,5 @@
 > [royal](./)
 
-![photo](/profile/education/royal/moratuwa-admission.png)
+![photo](/profile/education/royal/photos/moratuwa-admission.png)
 
 ## University of Moratuwa
