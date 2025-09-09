@@ -9,6 +9,7 @@
 
 I graduated majoring in Computer Engineering with a minor in Philosophy in 1996.
 
+* [Admission](admission)
 * [Computer Engineering Major](major)
 * [Philosophy Minor](minor)
 * [Co-operative Education](co-op)
