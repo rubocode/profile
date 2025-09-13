@@ -1,6 +1,6 @@
 > [education](../)
 
-![stevens](/profile/education/photos/stevens.png)
+![stevens](photos/stevens.png)
 
 ## Stevens Institute of Technology
 
