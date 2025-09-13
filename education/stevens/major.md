@@ -1,6 +1,6 @@
 > [stevens](./)
 
-![photo](/profile/education/photos/major.png)
+![photo](photos/major.png)
 
 ## Computer Engineering Major
 

@@ -1,6 +1,6 @@
 > [stevens](./)
 
-![photo](/profile/education/photos/minor.png)
+![photo](photos/minor.png)
 
 ## Philosophy Minor
 
