@@ -1,6 +1,6 @@
 > [education](/profile/education)
 
-![royal](/profile/education/photos/disce.png)
+![royal](photos/disce.png)
 
 ## Royal College
 

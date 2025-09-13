@@ -1,5 +1,5 @@
 > [royal](./)
 
-![photo](/profile/education/royal/photos/ordinary-level.png)
+![photo](photos/ordinary-level.png)
 
 ## GCE (O/L)

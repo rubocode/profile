@@ -1,6 +1,6 @@
 > [royal](./)
 
-![group-of-88](/profile/education/photos/hilton.png)
+![group-of-88](photos/hilton.png)
 
 ## Group of '88
 

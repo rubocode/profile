@@ -1,5 +1,5 @@
 > [royal](./)
 
-![photo](/profile/education/royal/photos/character.png)
+![photo](photos/character.png)
 
 ## Character Certificate

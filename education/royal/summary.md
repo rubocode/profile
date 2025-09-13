@@ -1,5 +1,5 @@
 > [royal](./)
 
-![photo](/profile/education/royal/photos/summary.png)
+![photo](photos/summary.png)
 
 ## Summary Report

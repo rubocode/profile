@@ -1,12 +1,12 @@
 > [royal](./)
 
-![photo](/profile/education/photos/royal-ifs.png)
+![photo](photos/royal-ifs.png)
 
 ## USA
 
 Studying at [Royal College](/profile/education/royal),
 I obtained 3 As and a C in the Mathematics stream at the G.C.E. (A/L) examination in 1988.
-I gained entry into the [University of Moratuwa](/profile/education/royal/moratuwa)
+I gained entry into the [University of Moratuwa](moratuwa)
 in the Engineering I category.
 
 However, due to civil unrest in the country at the time all universities were closed

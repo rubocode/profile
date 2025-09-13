@@ -1,6 +1,6 @@
 > [royal](./)
 
-![rcu](/profile/education/photos/it-day.png)
+![rcu](photos/it-day.png)
 
 ## Royal College Union
 
