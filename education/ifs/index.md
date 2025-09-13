@@ -1,4 +1,4 @@
-> [education](/profile/education)
+> [education](../)
 
 ![ifs](photos/ifs.png)
 

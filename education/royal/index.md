@@ -1,4 +1,4 @@
-> [education](/profile/education)
+> [education](../)
 
 ![royal](photos/disce.png)
 
