@@ -1,6 +1,6 @@
-> [ifs](/profile/education/ifs)
+> [ifs](./)
 
-![french](/profile/education/photos/french-89.png)
+![french](photos/french-89.png)
 
 > Bicentennial of the French Revolution (1789 - 1989) held in Colombo.
 

@@ -1,6 +1,6 @@
 > [education](/profile/education)
 
-![ifs](/profile/education/photos/ifs.png)
+![ifs](photos/ifs.png)
 
 > IFS, Hantana, Kandy
 

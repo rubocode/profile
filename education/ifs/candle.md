@@ -1,6 +1,6 @@
-> [ifs](/profile/education/ifs)
+> [ifs](./)
 
-![candle](/profile/education/photos/candle.png)
+![candle](photos/candle.png)
 
 > The first page of my autograph from the IFS.
 

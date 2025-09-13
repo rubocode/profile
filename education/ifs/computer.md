@@ -1,6 +1,6 @@
-> [ifs](/profile/education/ifs)
+> [ifs](./)
 
-![computer](/profile/education/photos/mv-7800.png)
+![computer](photos/mv-7800.png)
 
 > With me is Kanishka Perera who topped the island in the '88 A/L batch.
 
