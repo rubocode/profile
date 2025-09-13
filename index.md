@@ -18,7 +18,7 @@ I have more than a quarter of a century of experience in software development,
 starting at Salomon Brothers in New Jersey and New York working with Trading
 Systems in C++.  
 
-Currently I spend time studying General Purpose Languages, Operating Systems
+Currently, I spend time studying General Purpose Languages, Operating Systems
 and Systems Design with emphasis on simplicity, elegance, semantics and evolution.
 It is good to reflect on your past experience and have a critical look at current
 developments in the industry.
