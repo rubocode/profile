@@ -11,5 +11,4 @@
 * [Engineering Information, Inc.](ei)
 * [Salomon Smith Barney, Inc.](salomon)
 * [Cirrato Technologies](cirrato)
-* [Eduscope](eduscope)
 * [Platformer](platformer)
