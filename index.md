@@ -17,4 +17,4 @@ I have more than a quarter of a century of experience in software development,
 starting at Salomon Brothers in New Jersey and New York working with Trading Systems in C++.
 
 My general interests revolve around Philosophy, Psychology, Strategy and Systems.
-I am an [INTP](/mbti/types/intp).
+I am an INTP.
