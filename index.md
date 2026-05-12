@@ -21,7 +21,7 @@ I am an [INTP](/mbti/types/intp).
 Currently, I spend time studying General Purpose Languages, Operating Systems and Systems Design
 with emphasis on simplicity, elegance, semantics and evolution.
 It is good to reflect on your past experience and have a critical look at current developments in the industry.
-These are also the areas of focus in my consulting work: _programming is resource management_.
+These are also the areas of focus in my consulting work: _programming is resource management_!
 
 In the area of automated intelligence, I focus on Cognitive Intelligence
 coupled with Integrated Coherent Knowledge Structures and Evolution.
