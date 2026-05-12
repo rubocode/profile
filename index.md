@@ -28,6 +28,6 @@ coupled with Integrated Coherent Knowledge Structures and Evolution.
 These will come in handy after the Statistical Intelligence wave dies down and
 makes it obvious that Human Cognitive Intelligence is far superior to
 Statistical Inference techniques involving large data sets.
-
 You can't invent the future staring at the rear view mirror.
-Let's be thoughtful and patient in driving progress.
+
+Let's be patient and thoughtful in driving real progress.
