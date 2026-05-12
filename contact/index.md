@@ -2,4 +2,3 @@
 
 ![card](photos/contact.png)
 
-## Contact
