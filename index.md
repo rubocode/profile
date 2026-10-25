@@ -16,6 +16,6 @@ Currently, I spend time studying systems with emphasis on simplicity, elegance, 
 It has also been quite an experience studying the history of some of the topics of interest.  It is a good thing to be able reflect and gain new insight.
 
 In the area of automated intelligence, I focus on Cognitive Intelligence
-coupled with Integrated Coherent Knowledge Structures and Evolution so that Learning takes place.  This is how the [INTP](/mbti/types/intp) brain works and I study it with active interest.  It is my conviction that Human Cognitive Intelligence is far superior to Statistical Inference techniques involving large data sets.  
+coupled with Integrated Coherent Knowledge Structures and Evolution that enables Learning to take place.  This is how the [INTP](/mbti/types/intp) brain works and I study it with active interest.  It is my conviction that Human Cognitive Intelligence is far superior to Statistical Inference techniques involving large data sets.  
 
 Let's be patient and thoughtful until the mud settles to the bottom and creates clarity.
