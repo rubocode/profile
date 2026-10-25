@@ -18,4 +18,4 @@ It has also been quite an experience studying the history of some of the topics 
 In the area of automated intelligence, I focus on Cognitive Intelligence
 coupled with Integrated Coherent Knowledge Structures and Evolution so that Learning takes place.  It is my conviction that Human Cognitive Intelligence is far superior to Statistical Inference techniques involving large data sets.  
 
-Let's be patient and thoughtful until the muddy water settles and creates clarity.
+Let's be patient and thoughtful until the mud settles to the bottom and creates clarity.
