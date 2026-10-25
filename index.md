@@ -10,7 +10,8 @@
 
 | [Education](education) | [Work](work) | [Interests](interests) |
 
-I am an Analyst and my general interests revolve around Philosophy, Psychology, Strategy and Systems.  I am an [INTP](/mbti/types/intp).  Currently, I spend time working on documenting a few enduring topics in a way that makes sense when they are connected.
+I am an Analyst and my general interests revolve around Philosophy, Psychology, Strategy and Systems.  Currently, I spend time working on documenting a few enduring topics in a way that makes sense when they are connected.
+I am an [INTP](/mbti/types/intp).
 
 I graduated from Stevens Institute of Technology in Hoboken, New Jersey, USA as a Computer Engineer with a minor in Philosophy in 1996.  I have more than a quarter of a century of experience in software development, starting at Salomon Brothers in New Jersey and New York working with Trading Systems in C++.
 
